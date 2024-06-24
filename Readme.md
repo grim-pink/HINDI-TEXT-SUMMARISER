@@ -51,5 +51,5 @@ Future work includes developing a model from the ground up, using MUSE embedding
 
 For more details, refer to the [project report](Report.pdf).
 
-You can also find more information and related resources at this [Google Drive link](https://drive.google.com/file/d/1jC_Tz2vQ-hlBy3rpXiCiTGqw-FoaJmMO/view?usp=sharing).
+You can find a functional demo of the mT5 base model in the video on our website. [Google Drive link](https://drive.google.com/file/d/1jC_Tz2vQ-hlBy3rpXiCiTGqw-FoaJmMO/view?usp=sharing).
 
