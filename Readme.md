@@ -7,7 +7,7 @@
 
 ## Abstract
 
-Indian languages have a rich linguistic diversity and are spoken by a large population, yet automatic text summarization for these languages has received little attention in academic research. This project tackles the challenges highlighted by the Indian Language Summarization Task (ILSUM) by developing tailored solutions for Indian English, Bengali, Hindi, and Gujarati. Our proposed approach combines Named Entity Recognition (NER) with advanced multilingual transformer models to generate semantically rich summaries. Additionally, we incorporate Optical Character Recognition (OCR) capabilities, enabling the processing of non-digital data formats.
+Indian languages have a rich linguistic diversity and are spoken by a large population, yet automatic text summarization for these languages has received little attention in academic research. This project tackles the challenges highlighted by the Indian Language Summarization Task (ILSUM) by developing tailored solutions for Hindi. Our proposed approach combines Named Entity Recognition (NER) with advanced multilingual transformer models to generate semantically rich summaries. Additionally, we incorporate Optical Character Recognition (OCR) capabilities, enabling the processing of non-digital data formats.
 
 ## Introduction
 
